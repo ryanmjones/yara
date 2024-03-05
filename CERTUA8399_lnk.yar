@@ -2,7 +2,7 @@ rule CERTUA8399_lnk
 {
     meta:
         description = "searching for lnk files related to CERT-UA#8399"
-        author = "rjones"
+        author = "ryanjones"
         source = "https://cert.gov.ua/article/6276894"
         hash = "593583b312bf48b7748f4372e6f4a560fd38e969399cf2a96798e2594a517bf4"
         hash = "19d0c55ac466e4188c4370e204808ca0bc02bba480ec641da8190cb8aee92bdc"
