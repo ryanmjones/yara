@@ -2,7 +2,7 @@ rule OCEANMAP_hunt
 {
     meta:
         description = "looking for possible OCEANMAP binaries"
-        author = "rjones"
+        author = "ryanjones"
         source = "https://cert.gov.ua/article/6276894"
         hash = "24fd571600dcc00bf2bb8577c7e4fd67275f7d19d852b909395bebcbb1274e04"
     strings:
